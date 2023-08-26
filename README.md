@@ -4,5 +4,4 @@
 <hr>
 <p dir="auto"><strong>Onde encontrar meus trabalhos</strong></p>
 <p dir="auto"><a href="https://www.linkedin.com/in/fabiana-alexandria-a2899441//" rel="nofollow">LinkedIn</a></p>
-<p dir="auto"><a href="https://www." rel="nofollow">Kaggle</a></p>
 <hr>
